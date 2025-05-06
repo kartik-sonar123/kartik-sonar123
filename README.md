@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/GitHub_banner.png" alt="Kartik's Banner" />
+  <img src="https://raw.githubusercontent.com/kartik-sonar123/kartik-sonar123/main/GitHub_banner.png" alt="Kartik's Banner" />
 </p>
 
 # Hi there 👋, I'm Kartik!
